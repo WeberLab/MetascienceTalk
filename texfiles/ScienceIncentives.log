@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.6.2)  10 OCT 2023 19:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.6.2)  10 OCT 2023 19:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1208,7 +1208,7 @@ File: ts1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 ] [64
 
 ]
-<../images/openaccesstimeline.png, id=1930, 323.0469pt x 112.5003pt>
+<../images/openaccesstimeline.png, id=1933, 323.0469pt x 112.5003pt>
 File: ../images/openaccesstimeline.png Graphic file (type png)
 <use ../images/openaccesstimeline.png>
 Package pdftex.def Info: ../images/openaccesstimeline.png  used on input line 397.
@@ -1246,7 +1246,7 @@ Package pdftex.def Info: ../images/openaccesstimeline.png  used on input line 39
 ] [70
 
 ]
-<../images/NeuroImage_Resign.png, id=2092, 173.9298pt x 109.3686pt>
+<../images/NeuroImage_Resign.png, id=2095, 173.9298pt x 109.3686pt>
 File: ../images/NeuroImage_Resign.png Graphic file (type png)
 <use ../images/NeuroImage_Resign.png>
 Package pdftex.def Info: ../images/NeuroImage_Resign.png  used on input line 416.
@@ -1258,7 +1258,7 @@ File: ../images/NeuroImage_Resign.png Graphic file (type png)
 <use ../images/NeuroImage_Resign.png>
 Package pdftex.def Info: ../images/NeuroImage_Resign.png  used on input line 416.
 (pdftex.def)             Requested size: 209.99908pt x 132.05435pt.
-<../images/scihub.png, id=2119, 200.1879pt x 141.8901pt>
+<../images/scihub.png, id=2122, 200.1879pt x 141.8901pt>
 File: ../images/scihub.png Graphic file (type png)
 <use ../images/scihub.png>
 Package pdftex.def Info: ../images/scihub.png  used on input line 416.
@@ -1280,7 +1280,7 @@ Package pdftex.def Info: ../images/scihub.png  used on input line 416.
 ] [79
 
 ]
-<../images/grantsCanada.png, id=2334, 361.35pt x 151.0443pt>
+<../images/grantsCanada.png, id=2351, 361.35pt x 151.0443pt>
 File: ../images/grantsCanada.png Graphic file (type png)
 <use ../images/grantsCanada.png>
 Package pdftex.def Info: ../images/grantsCanada.png  used on input line 457.
@@ -1288,7 +1288,7 @@ Package pdftex.def Info: ../images/grantsCanada.png  used on input line 457.
  [80
 
  <../images/grantsCanada.png>]
-<../images/fundinggdpcountries.png, id=2362, 181.8795pt x 151.0443pt>
+<../images/fundinggdpcountries.png, id=2380, 181.8795pt x 151.0443pt>
 File: ../images/fundinggdpcountries.png Graphic file (type png)
 <use ../images/fundinggdpcountries.png>
 Package pdftex.def Info: ../images/fundinggdpcountries.png  used on input line 468.
@@ -1302,7 +1302,7 @@ Package pdftex.def Info: ../images/fundinggdpcountries.png  used on input line 4
 ] [84
 
 ]
-<../images/gradfundpovertyline.png, id=2467, 1541.76pt x 893.58844pt>
+<../images/gradfundpovertyline.png, id=2485, 1541.76pt x 893.58844pt>
 File: ../images/gradfundpovertyline.png Graphic file (type png)
 <use ../images/gradfundpovertyline.png>
 Package pdftex.def Info: ../images/gradfundpovertyline.png  used on input line 493.
@@ -1310,7 +1310,7 @@ Package pdftex.def Info: ../images/gradfundpovertyline.png  used on input line 4
  [85
 
  <../images/gradfundpovertyline.png>]
-<../images/gradmoneyafterrent.jpeg, id=2498, 191.9973pt x 191.2746pt>
+<../images/gradmoneyafterrent.jpeg, id=2515, 191.9973pt x 191.2746pt>
 File: ../images/gradmoneyafterrent.jpeg Graphic file (type jpg)
 <use ../images/gradmoneyafterrent.jpeg>
 Package pdftex.def Info: ../images/gradmoneyafterrent.jpeg  used on input line 506.
@@ -1318,7 +1318,7 @@ Package pdftex.def Info: ../images/gradmoneyafterrent.jpeg  used on input line 5
  [86
 
  <../images/gradmoneyafterrent.jpeg>]
-<../images/gradfundingtime.png, id=2525, 1204.5pt x 946.53625pt>
+<../images/gradfundingtime.png, id=2542, 1204.5pt x 946.53625pt>
 File: ../images/gradfundingtime.png Graphic file (type png)
 <use ../images/gradfundingtime.png>
 Package pdftex.def Info: ../images/gradfundingtime.png  used on input line 516.
@@ -1326,7 +1326,7 @@ Package pdftex.def Info: ../images/gradfundingtime.png  used on input line 516.
  [87
 
  <../images/gradfundingtime.png>]
-<../images/gradnumberscholarships.jpeg, id=2553, 161.8848pt x 229.8186pt>
+<../images/gradnumberscholarships.jpeg, id=2570, 161.8848pt x 229.8186pt>
 File: ../images/gradnumberscholarships.jpeg Graphic file (type jpg)
 <use ../images/gradnumberscholarships.jpeg>
 Package pdftex.def Info: ../images/gradnumberscholarships.jpeg  used on input line 526.
@@ -1334,7 +1334,7 @@ Package pdftex.def Info: ../images/gradnumberscholarships.jpeg  used on input li
  [88
 
  <../images/gradnumberscholarships.jpeg>]
-<../images/pyramidscheme.png, id=2580, 602.25pt x 398.48875pt>
+<../images/pyramidscheme.png, id=2598, 602.25pt x 398.48875pt>
 File: ../images/pyramidscheme.png Graphic file (type png)
 <use ../images/pyramidscheme.png>
 Package pdftex.def Info: ../images/pyramidscheme.png  used on input line 538.
@@ -1366,7 +1366,7 @@ Package pdftex.def Info: ../images/pyramidscheme.png  used on input line 538.
 ] [101
 
 ]
-<../images/The_Scientific_Method.png, id=2924, 1027.84pt x 976.64874pt>
+<../images/The_Scientific_Method.png, id=2959, 1027.84pt x 976.64874pt>
 File: ../images/The_Scientific_Method.png Graphic file (type png)
 <use ../images/The_Scientific_Method.png>
 Package pdftex.def Info: ../images/The_Scientific_Method.png  used on input line 601.
@@ -1378,7 +1378,7 @@ File: ../images/The_Scientific_Method.png Graphic file (type png)
 <use ../images/The_Scientific_Method.png>
 Package pdftex.def Info: ../images/The_Scientific_Method.png  used on input line 601.
 (pdftex.def)             Requested size: 150.0pt x 142.52693pt.
-<../images/scienceprogress.png, id=2954, 165.2574pt x 97.3236pt>
+<../images/scienceprogress.png, id=2989, 165.2574pt x 97.3236pt>
 File: ../images/scienceprogress.png Graphic file (type png)
 <use ../images/scienceprogress.png>
 Package pdftex.def Info: ../images/scienceprogress.png  used on input line 601.
@@ -1399,7 +1399,7 @@ Package pdftex.def Info: ../images/scienceprogress.png  used on input line 601.
 ] [105
 
 ]
-<../images/comte.jpg, id=3036, 1255.69125pt x 1606.0pt>
+<../images/comte.jpg, id=3071, 1255.69125pt x 1606.0pt>
 File: ../images/comte.jpg Graphic file (type jpg)
 <use ../images/comte.jpg>
 Package pdftex.def Info: ../images/comte.jpg  used on input line 625.
@@ -1449,7 +1449,7 @@ Package pdftex.def Info: ../images/comte.jpg  used on input line 625.
  [112
 
 ]
-<../images/Karl_Popper.jpg, id=3219, 602.25pt x 771.88374pt>
+<../images/Karl_Popper.jpg, id=3255, 602.25pt x 771.88374pt>
 File: ../images/Karl_Popper.jpg Graphic file (type jpg)
 <use ../images/Karl_Popper.jpg>
 Package pdftex.def Info: ../images/Karl_Popper.jpg  used on input line 647.
@@ -1506,7 +1506,7 @@ Package pdftex.def Info: ../images/Karl_Popper.jpg  used on input line 647.
  [120
 
 ]
-<../images/Thomas_Kuhn.jpg, id=3431, 233.87375pt x 287.0725pt>
+<../images/Thomas_Kuhn.jpg, id=3467, 233.87375pt x 287.0725pt>
 File: ../images/Thomas_Kuhn.jpg Graphic file (type jpg)
 <use ../images/Thomas_Kuhn.jpg>
 Package pdftex.def Info: ../images/Thomas_Kuhn.jpg  used on input line 661.
@@ -1542,7 +1542,7 @@ Package pdftex.def Info: ../images/Thomas_Kuhn.jpg  used on input line 661.
  [125
 
 ]
-<../images/popper-kuhn1.png, id=3565, 616.704pt x 200.4288pt>
+<../images/popper-kuhn1.png, id=3600, 616.704pt x 200.4288pt>
 File: ../images/popper-kuhn1.png Graphic file (type png)
 <use ../images/popper-kuhn1.png>
 Package pdftex.def Info: ../images/popper-kuhn1.png  used on input line 667.
@@ -1550,7 +1550,7 @@ Package pdftex.def Info: ../images/popper-kuhn1.png  used on input line 667.
  [126
 
  <../images/popper-kuhn1.png>]
-<../images/lakatos.jpg, id=3593, 602.25pt x 886.31125pt>
+<../images/lakatos.jpg, id=3628, 602.25pt x 886.31125pt>
 File: ../images/lakatos.jpg Graphic file (type jpg)
 <use ../images/lakatos.jpg>
 Package pdftex.def Info: ../images/lakatos.jpg  used on input line 682.
@@ -1593,7 +1593,7 @@ Package pdftex.def Info: ../images/lakatos.jpg  used on input line 682.
  [132
 
 ]
-<../images/lakatosmodel.jpg, id=3752, 552.0625pt x 406.51875pt>
+<../images/lakatosmodel.jpg, id=3788, 552.0625pt x 406.51875pt>
 File: ../images/lakatosmodel.jpg Graphic file (type jpg)
 <use ../images/lakatosmodel.jpg>
 Package pdftex.def Info: ../images/lakatosmodel.jpg  used on input line 688.
@@ -1601,7 +1601,7 @@ Package pdftex.def Info: ../images/lakatosmodel.jpg  used on input line 688.
  [133
 
  <../images/lakatosmodel.jpg>]
-<../images/Feyerabend.jpeg, id=3781, 467.7475pt x 660.4675pt>
+<../images/Feyerabend.jpeg, id=3816, 467.7475pt x 660.4675pt>
 File: ../images/Feyerabend.jpeg Graphic file (type jpg)
 <use ../images/Feyerabend.jpeg>
 Package pdftex.def Info: ../images/Feyerabend.jpeg  used on input line 704.
@@ -1651,7 +1651,7 @@ Package pdftex.def Info: ../images/Feyerabend.jpeg  used on input line 704.
 ] [145
 
 ]
-<../images/John_Ioannidis.jpg, id=4120, 542.025pt x 722.7pt>
+<../images/John_Ioannidis.jpg, id=4155, 542.025pt x 722.7pt>
 File: ../images/John_Ioannidis.jpg Graphic file (type jpg)
 <use ../images/John_Ioannidis.jpg>
 Package pdftex.def Info: ../images/John_Ioannidis.jpg  used on input line 735.
@@ -1726,7 +1726,7 @@ Package pdftex.def Info: ../images/moststudiesfalse.png  used on input line 744.
 ] [172
 
 ]
-<../images/stagnant.png, id=4917, 180.675pt x 60.9477pt>
+<../images/stagnant.png, id=4952, 180.675pt x 60.9477pt>
 File: ../images/stagnant.png Graphic file (type png)
 <use ../images/stagnant.png>
 Package pdftex.def Info: ../images/stagnant.png  used on input line 813.
@@ -1741,7 +1741,7 @@ Package pdftex.def Info: ../images/stagnant.png  used on input line 813.
  [174
 
 ]
-<../images/paperspatents.png, id=4992, 308.8338pt x 154.6578pt>
+<../images/paperspatents.png, id=5027, 308.8338pt x 154.6578pt>
 File: ../images/paperspatents.png Graphic file (type png)
 <use ../images/paperspatents.png>
 Package pdftex.def Info: ../images/paperspatents.png  used on input line 817.
@@ -1781,42 +1781,42 @@ Package pdftex.def Info: ../images/paperspatents.png  used on input line 817.
 ] [191
 
 ]
-<../images/statsdonewrong.jpg, id=5441, 669.50125pt x 1003.75pt>
+<../images/statsdonewrong.jpg, id=5476, 669.50125pt x 1003.75pt>
 File: ../images/statsdonewrong.jpg Graphic file (type jpg)
 <use ../images/statsdonewrong.jpg>
-Package pdftex.def Info: ../images/statsdonewrong.jpg  used on input line 894.
+Package pdftex.def Info: ../images/statsdonewrong.jpg  used on input line 899.
 (pdftex.def)             Requested size: 60.0pt x 89.9507pt.
-<../images/againstmethod.jpg, id=5442, 672.5125pt x 1003.75pt>
+<../images/againstmethod.jpg, id=5477, 672.5125pt x 1003.75pt>
 File: ../images/againstmethod.jpg Graphic file (type jpg)
 <use ../images/againstmethod.jpg>
-Package pdftex.def Info: ../images/againstmethod.jpg  used on input line 894.
+Package pdftex.def Info: ../images/againstmethod.jpg  used on input line 899.
 (pdftex.def)             Requested size: 60.0pt x 89.55247pt.
-<../images/structures.jpg, id=5443, 313.17pt x 476.78125pt>
+<../images/structures.jpg, id=5478, 313.17pt x 476.78125pt>
 File: ../images/structures.jpg Graphic file (type jpg)
 <use ../images/structures.jpg>
-Package pdftex.def Info: ../images/structures.jpg  used on input line 894.
+Package pdftex.def Info: ../images/structures.jpg  used on input line 899.
 (pdftex.def)             Requested size: 60.0pt x 91.34598pt.
-<../images/metaphysicalclub.jpg, id=5444, 1003.75pt x 1003.75pt>
+<../images/metaphysicalclub.jpg, id=5479, 1003.75pt x 1003.75pt>
 File: ../images/metaphysicalclub.jpg Graphic file (type jpg)
 <use ../images/metaphysicalclub.jpg>
-Package pdftex.def Info: ../images/metaphysicalclub.jpg  used on input line 894.
+Package pdftex.def Info: ../images/metaphysicalclub.jpg  used on input line 899.
 (pdftex.def)             Requested size: 60.0pt x 59.99266pt.
-<../images/degreesofsuccess.png, id=5445, 154.8987pt x 233.673pt>
+<../images/degreesofsuccess.png, id=5480, 154.8987pt x 233.673pt>
 File: ../images/degreesofsuccess.png Graphic file (type png)
 <use ../images/degreesofsuccess.png>
-Package pdftex.def Info: ../images/degreesofsuccess.png  used on input line 894.
+Package pdftex.def Info: ../images/degreesofsuccess.png  used on input line 899.
 (pdftex.def)             Requested size: 60.0pt x 90.51526pt.
 File: ../images/moststudiesfalse.png Graphic file (type png)
 <use ../images/moststudiesfalse.png>
-Package pdftex.def Info: ../images/moststudiesfalse.png  used on input line 894.
+Package pdftex.def Info: ../images/moststudiesfalse.png  used on input line 899.
 (pdftex.def)             Requested size: 190.0pt x 43.31268pt.
 File: ../images/sciencefunding.png Graphic file (type png)
 <use ../images/sciencefunding.png>
-Package pdftex.def Info: ../images/sciencefunding.png  used on input line 894.
+Package pdftex.def Info: ../images/sciencefunding.png  used on input line 899.
 (pdftex.def)             Requested size: 160.0pt x 49.36661pt.
 File: ../images/25percentClinicalTrialsFalse.png Graphic file (type png)
 <use ../images/25percentClinicalTrialsFalse.png>
-Package pdftex.def Info: ../images/25percentClinicalTrialsFalse.png  used on input line 894.
+Package pdftex.def Info: ../images/25percentClinicalTrialsFalse.png  used on input line 899.
 (pdftex.def)             Requested size: 80.0pt x 77.96085pt.
  [192
 
@@ -1835,18 +1835,18 @@ Package rerunfilecheck Info: File `ScienceIncentives.out' has not changed.
 (rerunfilecheck)             Checksum: C94EBF82C7B5715373B3A7153AF1768F;806.
  ) 
 Here is how much of TeX's memory you used:
- 26015 strings out of 478287
- 502573 string characters out of 5849290
- 753058 words of memory out of 5000000
- 43240 multiletter control sequences out of 15000+600000
- 483854 words of font info for 74 fonts, out of 8000000 for 9000
+ 26020 strings out of 478287
+ 502625 string characters out of 5849290
+ 753061 words of memory out of 5000000
+ 43243 multiletter control sequences out of 15000+600000
+ 484190 words of font info for 76 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,15n,122p,510b,949s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam7.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1095.pfb>
-Output written on ScienceIncentives.pdf (192 pages, 6119544 bytes).
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam7.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1095.pfb>
+Output written on ScienceIncentives.pdf (192 pages, 6144100 bytes).
 PDF statistics:
- 5606 PDF objects out of 6186 (max. 8388607)
- 5120 compressed objects within 52 object streams
+ 5653 PDF objects out of 6186 (max. 8388607)
+ 5163 compressed objects within 52 object streams
  393 named destinations out of 1000 (max. 500000)
  1165 words of extra memory for PDF output out of 10000 (max. 10000000)
 
