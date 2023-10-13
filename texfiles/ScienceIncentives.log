@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.6.2)  10 OCT 2023 19:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.6.2)  12 OCT 2023 13:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -786,233 +786,233 @@ Dictionary: translator-theorem-dictionary, Language: English
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./ScienceIncentives.toc) [2
 
+] (./ScienceIncentives.toc) [3
+
 ]
-<../images/Toot.png, id=122, 137.7948pt x 166.7028pt>
+<../images/Toot.png, id=160, 137.7948pt x 166.7028pt>
 File: ../images/Toot.png Graphic file (type png)
 <use ../images/Toot.png>
-Package pdftex.def Info: ../images/Toot.png  used on input line 85.
+Package pdftex.def Info: ../images/Toot.png  used on input line 88.
 (pdftex.def)             Requested size: 188.26346pt x 227.77858pt.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 85.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 88.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 85.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 88.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on input line 85.
+LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on input line 88.
  (/usr/share/texlive/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/mathkerncmss.
-) [3
+) [4
 
  <../images/Toot.png>]
-<../images/Toot_yyn.png, id=153, 137.7948pt x 166.7028pt>
+<../images/Toot_yyn.png, id=189, 137.7948pt x 166.7028pt>
 File: ../images/Toot_yyn.png Graphic file (type png)
 <use ../images/Toot_yyn.png>
-Package pdftex.def Info: ../images/Toot_yyn.png  used on input line 105.
+Package pdftex.def Info: ../images/Toot_yyn.png  used on input line 108.
 (pdftex.def)             Requested size: 188.26346pt x 227.77858pt.
- [4
+ [5
 
  <../images/Toot_yyn.png>]
 File: ../images/Toot_yyn.png Graphic file (type png)
 <use ../images/Toot_yyn.png>
-Package pdftex.def Info: ../images/Toot_yyn.png  used on input line 105.
-(pdftex.def)             Requested size: 188.26346pt x 227.77858pt.
- [5
-
-]
-File: ../images/Toot_yyn.png Graphic file (type png)
-<use ../images/Toot_yyn.png>
-Package pdftex.def Info: ../images/Toot_yyn.png  used on input line 105.
+Package pdftex.def Info: ../images/Toot_yyn.png  used on input line 108.
 (pdftex.def)             Requested size: 188.26346pt x 227.77858pt.
  [6
 
 ]
 File: ../images/Toot_yyn.png Graphic file (type png)
 <use ../images/Toot_yyn.png>
-Package pdftex.def Info: ../images/Toot_yyn.png  used on input line 105.
+Package pdftex.def Info: ../images/Toot_yyn.png  used on input line 108.
 (pdftex.def)             Requested size: 188.26346pt x 227.77858pt.
  [7
 
 ]
-<../images/Toot_2ndpar.png, id=264, 137.7948pt x 166.7028pt>
-File: ../images/Toot_2ndpar.png Graphic file (type png)
-<use ../images/Toot_2ndpar.png>
-Package pdftex.def Info: ../images/Toot_2ndpar.png  used on input line 118.
+File: ../images/Toot_yyn.png Graphic file (type png)
+<use ../images/Toot_yyn.png>
+Package pdftex.def Info: ../images/Toot_yyn.png  used on input line 108.
 (pdftex.def)             Requested size: 188.26346pt x 227.77858pt.
  [8
+
+]
+<../images/Toot_2ndpar.png, id=300, 137.7948pt x 166.7028pt>
+File: ../images/Toot_2ndpar.png Graphic file (type png)
+<use ../images/Toot_2ndpar.png>
+Package pdftex.def Info: ../images/Toot_2ndpar.png  used on input line 121.
+(pdftex.def)             Requested size: 188.26346pt x 227.77858pt.
+ [9
 
  <../images/Toot_2ndpar.png>]
 File: ../images/Toot_2ndpar.png Graphic file (type png)
 <use ../images/Toot_2ndpar.png>
-Package pdftex.def Info: ../images/Toot_2ndpar.png  used on input line 118.
+Package pdftex.def Info: ../images/Toot_2ndpar.png  used on input line 121.
 (pdftex.def)             Requested size: 188.26346pt x 227.77858pt.
-<../images/Incentives.png, id=293, 117.8001pt x 58.0569pt>
+<../images/Incentives.png, id=329, 117.8001pt x 58.0569pt>
 File: ../images/Incentives.png Graphic file (type png)
 <use ../images/Incentives.png>
-Package pdftex.def Info: ../images/Incentives.png  used on input line 118.
+Package pdftex.def Info: ../images/Incentives.png  used on input line 121.
 (pdftex.def)             Requested size: 154.03183pt x 75.9151pt.
- [9
+ [10
 
  <../images/Incentives.png>]
-<../images/Toot_3rdpar.png, id=320, 137.7948pt x 166.7028pt>
+<../images/Toot_3rdpar.png, id=356, 137.7948pt x 166.7028pt>
 File: ../images/Toot_3rdpar.png Graphic file (type png)
 <use ../images/Toot_3rdpar.png>
-Package pdftex.def Info: ../images/Toot_3rdpar.png  used on input line 134.
+Package pdftex.def Info: ../images/Toot_3rdpar.png  used on input line 137.
 (pdftex.def)             Requested size: 188.26346pt x 227.77858pt.
- [10
+ [11
 
  <../images/Toot_3rdpar.png>]
 File: ../images/Toot_3rdpar.png Graphic file (type png)
 <use ../images/Toot_3rdpar.png>
-Package pdftex.def Info: ../images/Toot_3rdpar.png  used on input line 134.
+Package pdftex.def Info: ../images/Toot_3rdpar.png  used on input line 137.
 (pdftex.def)             Requested size: 188.26346pt x 227.77858pt.
-<../images/moststudiesfalse.png, id=348, 163.812pt x 37.3395pt>
+<../images/moststudiesfalse.png, id=385, 163.812pt x 37.3395pt>
 File: ../images/moststudiesfalse.png Graphic file (type png)
 <use ../images/moststudiesfalse.png>
-Package pdftex.def Info: ../images/moststudiesfalse.png  used on input line 134.
+Package pdftex.def Info: ../images/moststudiesfalse.png  used on input line 137.
 (pdftex.def)             Requested size: 154.03183pt x 35.11278pt.
- [11
+ [12
 
  <../images/moststudiesfalse.png>]
 File: ../images/Toot_3rdpar.png Graphic file (type png)
 <use ../images/Toot_3rdpar.png>
-Package pdftex.def Info: ../images/Toot_3rdpar.png  used on input line 134.
+Package pdftex.def Info: ../images/Toot_3rdpar.png  used on input line 137.
 (pdftex.def)             Requested size: 188.26346pt x 227.77858pt.
 File: ../images/moststudiesfalse.png Graphic file (type png)
 <use ../images/moststudiesfalse.png>
-Package pdftex.def Info: ../images/moststudiesfalse.png  used on input line 134.
+Package pdftex.def Info: ../images/moststudiesfalse.png  used on input line 137.
 (pdftex.def)             Requested size: 154.03183pt x 35.11278pt.
-<../images/ProfitMargins.png, id=377, 172.7253pt x 119.4864pt>
+<../images/ProfitMargins.png, id=413, 172.7253pt x 119.4864pt>
 File: ../images/ProfitMargins.png Graphic file (type png)
 <use ../images/ProfitMargins.png>
-Package pdftex.def Info: ../images/ProfitMargins.png  used on input line 134.
+Package pdftex.def Info: ../images/ProfitMargins.png  used on input line 137.
 (pdftex.def)             Requested size: 154.03183pt x 106.5577pt.
- [12
+ [13
 
  <../images/ProfitMargins.png>]
 File: ../images/Toot_3rdpar.png Graphic file (type png)
 <use ../images/Toot_3rdpar.png>
-Package pdftex.def Info: ../images/Toot_3rdpar.png  used on input line 134.
+Package pdftex.def Info: ../images/Toot_3rdpar.png  used on input line 137.
 (pdftex.def)             Requested size: 188.26346pt x 227.77858pt.
 File: ../images/moststudiesfalse.png Graphic file (type png)
 <use ../images/moststudiesfalse.png>
-Package pdftex.def Info: ../images/moststudiesfalse.png  used on input line 134.
+Package pdftex.def Info: ../images/moststudiesfalse.png  used on input line 137.
 (pdftex.def)             Requested size: 154.03183pt x 35.11278pt.
 File: ../images/ProfitMargins.png Graphic file (type png)
 <use ../images/ProfitMargins.png>
-Package pdftex.def Info: ../images/ProfitMargins.png  used on input line 134.
+Package pdftex.def Info: ../images/ProfitMargins.png  used on input line 137.
 (pdftex.def)             Requested size: 154.03183pt x 106.5577pt.
-<../images/sciencefunding.png, id=404, 200.6697pt x 61.9113pt>
+<../images/sciencefunding.png, id=441, 200.6697pt x 61.9113pt>
 File: ../images/sciencefunding.png Graphic file (type png)
 <use ../images/sciencefunding.png>
-Package pdftex.def Info: ../images/sciencefunding.png  used on input line 134.
+Package pdftex.def Info: ../images/sciencefunding.png  used on input line 137.
 (pdftex.def)             Requested size: 154.03183pt x 47.5254pt.
- [13
-
- <../images/sciencefunding.png>]
-File: ../images/Incentives.png Graphic file (type png)
-<use ../images/Incentives.png>
-Package pdftex.def Info: ../images/Incentives.png  used on input line 168.
-(pdftex.def)             Requested size: 190.0pt x 93.64236pt.
-LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <10.95> not available
-(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 168.
-LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <8> not available
-(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 168.
-LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <6> not available
-(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 168.
  [14
 
-]
-File: ../images/Incentives.png Graphic file (type png)
-<use ../images/Incentives.png>
-Package pdftex.def Info: ../images/Incentives.png  used on input line 168.
-(pdftex.def)             Requested size: 190.0pt x 93.64236pt.
- [15
+ <../images/sciencefunding.png>] (./ScienceIncentives.toc) [15
 
 ]
 File: ../images/Incentives.png Graphic file (type png)
 <use ../images/Incentives.png>
-Package pdftex.def Info: ../images/Incentives.png  used on input line 168.
+Package pdftex.def Info: ../images/Incentives.png  used on input line 173.
 (pdftex.def)             Requested size: 190.0pt x 93.64236pt.
+LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <10.95> not available
+(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 173.
+LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <8> not available
+(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 173.
+LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <6> not available
+(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 173.
  [16
 
 ]
 File: ../images/Incentives.png Graphic file (type png)
 <use ../images/Incentives.png>
-Package pdftex.def Info: ../images/Incentives.png  used on input line 168.
+Package pdftex.def Info: ../images/Incentives.png  used on input line 173.
 (pdftex.def)             Requested size: 190.0pt x 93.64236pt.
  [17
 
 ]
 File: ../images/Incentives.png Graphic file (type png)
 <use ../images/Incentives.png>
-Package pdftex.def Info: ../images/Incentives.png  used on input line 168.
+Package pdftex.def Info: ../images/Incentives.png  used on input line 173.
 (pdftex.def)             Requested size: 190.0pt x 93.64236pt.
  [18
 
 ]
 File: ../images/Incentives.png Graphic file (type png)
 <use ../images/Incentives.png>
-Package pdftex.def Info: ../images/Incentives.png  used on input line 168.
+Package pdftex.def Info: ../images/Incentives.png  used on input line 173.
 (pdftex.def)             Requested size: 190.0pt x 93.64236pt.
  [19
 
 ]
-<../images/power.png, id=593, 1636.1125pt x 680.5425pt>
+File: ../images/Incentives.png Graphic file (type png)
+<use ../images/Incentives.png>
+Package pdftex.def Info: ../images/Incentives.png  used on input line 173.
+(pdftex.def)             Requested size: 190.0pt x 93.64236pt.
+ [20
+
+]
+File: ../images/Incentives.png Graphic file (type png)
+<use ../images/Incentives.png>
+Package pdftex.def Info: ../images/Incentives.png  used on input line 173.
+(pdftex.def)             Requested size: 190.0pt x 93.64236pt.
+ [21
+
+]
+<../images/power.png, id=663, 1636.1125pt x 680.5425pt>
 File: ../images/power.png Graphic file (type png)
 <use ../images/power.png>
-Package pdftex.def Info: ../images/power.png  used on input line 177.
+Package pdftex.def Info: ../images/power.png  used on input line 182.
 (pdftex.def)             Requested size: 342.2953pt x 142.37816pt.
- [20
+ [22
 
  <../images/power.png>]
 File: ../images/power.png Graphic file (type png)
 <use ../images/power.png>
-Package pdftex.def Info: ../images/power.png  used on input line 177.
+Package pdftex.def Info: ../images/power.png  used on input line 182.
 (pdftex.def)             Requested size: 342.2953pt x 142.37816pt.
- [21
+ [23
 
 ]
 File: ../images/power.png Graphic file (type png)
 <use ../images/power.png>
-Package pdftex.def Info: ../images/power.png  used on input line 177.
+Package pdftex.def Info: ../images/power.png  used on input line 182.
 (pdftex.def)             Requested size: 342.2953pt x 142.37816pt.
- [22
+ [24
 
 ]
-<../images/bidding.jpg, id=687, 481.8pt x 323.0469pt>
+<../images/bidding.jpg, id=758, 481.8pt x 323.0469pt>
 File: ../images/bidding.jpg Graphic file (type jpg)
 <use ../images/bidding.jpg>
-Package pdftex.def Info: ../images/bidding.jpg  used on input line 194.
+Package pdftex.def Info: ../images/bidding.jpg  used on input line 199.
 (pdftex.def)             Requested size: 154.03183pt x 103.27853pt.
- [23
+ [25
 
  <../images/bidding.jpg>]
 File: ../images/bidding.jpg Graphic file (type jpg)
 <use ../images/bidding.jpg>
-Package pdftex.def Info: ../images/bidding.jpg  used on input line 194.
+Package pdftex.def Info: ../images/bidding.jpg  used on input line 199.
 (pdftex.def)             Requested size: 154.03183pt x 103.27853pt.
- [24
+ [26
 
 ]
-<../images/file-drawer.jpg, id=797, 451.6875pt x 602.25pt>
+<../images/file-drawer.jpg, id=869, 451.6875pt x 602.25pt>
 File: ../images/file-drawer.jpg Graphic file (type jpg)
 <use ../images/file-drawer.jpg>
-Package pdftex.def Info: ../images/file-drawer.jpg  used on input line 212.
+Package pdftex.def Info: ../images/file-drawer.jpg  used on input line 217.
 (pdftex.def)             Requested size: 154.03183pt x 205.37799pt.
- [25
+ [27
 
  <../images/file-drawer.jpg>]
 File: ../images/file-drawer.jpg Graphic file (type jpg)
 <use ../images/file-drawer.jpg>
-Package pdftex.def Info: ../images/file-drawer.jpg  used on input line 212.
+Package pdftex.def Info: ../images/file-drawer.jpg  used on input line 217.
 (pdftex.def)             Requested size: 154.03183pt x 205.37799pt.
- [26
-
-] [27
-
-] [28
+ [28
 
 ] [29
 
@@ -1020,143 +1020,143 @@ Package pdftex.def Info: ../images/file-drawer.jpg  used on input line 212.
 
 ] [31
 
+] [32
+
+] [33
+
 ]
-<../images/natural-selection.jpg, id=1002, 948.54375pt x 301.125pt>
+<../images/natural-selection.jpg, id=1073, 948.54375pt x 301.125pt>
 File: ../images/natural-selection.jpg Graphic file (type jpg)
 <use ../images/natural-selection.jpg>
-Package pdftex.def Info: ../images/natural-selection.jpg  used on input line 242.
+Package pdftex.def Info: ../images/natural-selection.jpg  used on input line 247.
 (pdftex.def)             Requested size: 342.2953pt x 108.66222pt.
- [32
+ [34
 
  <../images/natural-selection.jpg>]
 File: ../images/natural-selection.jpg Graphic file (type jpg)
 <use ../images/natural-selection.jpg>
-Package pdftex.def Info: ../images/natural-selection.jpg  used on input line 242.
+Package pdftex.def Info: ../images/natural-selection.jpg  used on input line 247.
 (pdftex.def)             Requested size: 342.2953pt x 108.66222pt.
- [33
+ [35
 
-] [34
+] [36
 
 ]
-<../images/Netherlands_FalsifyData.png, id=1084, 190.5519pt x 71.0655pt>
+<../images/Netherlands_FalsifyData.png, id=1154, 190.5519pt x 71.0655pt>
 File: ../images/Netherlands_FalsifyData.png Graphic file (type png)
 <use ../images/Netherlands_FalsifyData.png>
-Package pdftex.def Info: ../images/Netherlands_FalsifyData.png  used on input line 267.
+Package pdftex.def Info: ../images/Netherlands_FalsifyData.png  used on input line 272.
 (pdftex.def)             Requested size: 150.0pt x 55.94267pt.
- [35
+ [37
 
  <../images/Netherlands_FalsifyData.png>]
 File: ../images/Netherlands_FalsifyData.png Graphic file (type png)
 <use ../images/Netherlands_FalsifyData.png>
-Package pdftex.def Info: ../images/Netherlands_FalsifyData.png  used on input line 267.
+Package pdftex.def Info: ../images/Netherlands_FalsifyData.png  used on input line 272.
 (pdftex.def)             Requested size: 150.0pt x 55.94267pt.
-<../images/HarvardProfFalsifyData.png, id=1112, 164.2938pt x 83.5923pt>
+<../images/HarvardProfFalsifyData.png, id=1184, 164.2938pt x 83.5923pt>
 File: ../images/HarvardProfFalsifyData.png Graphic file (type png)
 <use ../images/HarvardProfFalsifyData.png>
-Package pdftex.def Info: ../images/HarvardProfFalsifyData.png  used on input line 267.
+Package pdftex.def Info: ../images/HarvardProfFalsifyData.png  used on input line 272.
 (pdftex.def)             Requested size: 150.0pt x 76.32419pt.
- [36
+ [38
 
  <../images/HarvardProfFalsifyData.png>]
 File: ../images/Netherlands_FalsifyData.png Graphic file (type png)
 <use ../images/Netherlands_FalsifyData.png>
-Package pdftex.def Info: ../images/Netherlands_FalsifyData.png  used on input line 267.
+Package pdftex.def Info: ../images/Netherlands_FalsifyData.png  used on input line 272.
 (pdftex.def)             Requested size: 150.0pt x 55.94267pt.
 File: ../images/HarvardProfFalsifyData.png Graphic file (type png)
 <use ../images/HarvardProfFalsifyData.png>
-Package pdftex.def Info: ../images/HarvardProfFalsifyData.png  used on input line 267.
+Package pdftex.def Info: ../images/HarvardProfFalsifyData.png  used on input line 272.
 (pdftex.def)             Requested size: 150.0pt x 76.32419pt.
-<../images/DukeProfessorFalsifyData.png, id=1140, 163.3302pt x 117.3183pt>
+<../images/DukeProfessorFalsifyData.png, id=1212, 163.3302pt x 117.3183pt>
 File: ../images/DukeProfessorFalsifyData.png Graphic file (type png)
 <use ../images/DukeProfessorFalsifyData.png>
-Package pdftex.def Info: ../images/DukeProfessorFalsifyData.png  used on input line 267.
+Package pdftex.def Info: ../images/DukeProfessorFalsifyData.png  used on input line 272.
 (pdftex.def)             Requested size: 150.0pt x 107.74438pt.
- [37
+ [39
 
  <../images/DukeProfessorFalsifyData.png>]
 File: ../images/Netherlands_FalsifyData.png Graphic file (type png)
 <use ../images/Netherlands_FalsifyData.png>
-Package pdftex.def Info: ../images/Netherlands_FalsifyData.png  used on input line 267.
+Package pdftex.def Info: ../images/Netherlands_FalsifyData.png  used on input line 272.
 (pdftex.def)             Requested size: 150.0pt x 55.94267pt.
 File: ../images/HarvardProfFalsifyData.png Graphic file (type png)
 <use ../images/HarvardProfFalsifyData.png>
-Package pdftex.def Info: ../images/HarvardProfFalsifyData.png  used on input line 267.
+Package pdftex.def Info: ../images/HarvardProfFalsifyData.png  used on input line 272.
 (pdftex.def)             Requested size: 150.0pt x 76.32419pt.
 File: ../images/DukeProfessorFalsifyData.png Graphic file (type png)
 <use ../images/DukeProfessorFalsifyData.png>
-Package pdftex.def Info: ../images/DukeProfessorFalsifyData.png  used on input line 267.
+Package pdftex.def Info: ../images/DukeProfessorFalsifyData.png  used on input line 272.
 (pdftex.def)             Requested size: 150.0pt x 107.74438pt.
-<../images/StanfordPresident.png, id=1168, 183.5658pt x 58.7796pt>
+<../images/StanfordPresident.png, id=1239, 183.5658pt x 58.7796pt>
 File: ../images/StanfordPresident.png Graphic file (type png)
 <use ../images/StanfordPresident.png>
-Package pdftex.def Info: ../images/StanfordPresident.png  used on input line 267.
+Package pdftex.def Info: ../images/StanfordPresident.png  used on input line 272.
 (pdftex.def)             Requested size: 190.0pt x 60.84052pt.
- [38
+ [40
 
- <../images/StanfordPresident.png>] [39
+ <../images/StanfordPresident.png>] [41
 
 ]
-<../images/25percentClinicalTrialsFalse.png, id=1224, 151.0443pt x 147.1899pt>
+<../images/25percentClinicalTrialsFalse.png, id=1295, 151.0443pt x 147.1899pt>
 File: ../images/25percentClinicalTrialsFalse.png Graphic file (type png)
 <use ../images/25percentClinicalTrialsFalse.png>
-Package pdftex.def Info: ../images/25percentClinicalTrialsFalse.png  used on input line 296.
+Package pdftex.def Info: ../images/25percentClinicalTrialsFalse.png  used on input line 301.
 (pdftex.def)             Requested size: 120.0pt x 116.94128pt.
- [40
+ [42
 
  <../images/25percentClinicalTrialsFalse.png>]
 File: ../images/25percentClinicalTrialsFalse.png Graphic file (type png)
 <use ../images/25percentClinicalTrialsFalse.png>
-Package pdftex.def Info: ../images/25percentClinicalTrialsFalse.png  used on input line 296.
+Package pdftex.def Info: ../images/25percentClinicalTrialsFalse.png  used on input line 301.
 (pdftex.def)             Requested size: 120.0pt x 116.94128pt.
 File: ../images/moststudiesfalse.png Graphic file (type png)
 <use ../images/moststudiesfalse.png>
-Package pdftex.def Info: ../images/moststudiesfalse.png  used on input line 296.
-(pdftex.def)             Requested size: 200.0pt x 45.59227pt.
- [41
-
-]
-File: ../images/25percentClinicalTrialsFalse.png Graphic file (type png)
-<use ../images/25percentClinicalTrialsFalse.png>
-Package pdftex.def Info: ../images/25percentClinicalTrialsFalse.png  used on input line 296.
-(pdftex.def)             Requested size: 120.0pt x 116.94128pt.
-File: ../images/moststudiesfalse.png Graphic file (type png)
-<use ../images/moststudiesfalse.png>
-Package pdftex.def Info: ../images/moststudiesfalse.png  used on input line 296.
-(pdftex.def)             Requested size: 200.0pt x 45.59227pt.
- [42
-
-]
-File: ../images/25percentClinicalTrialsFalse.png Graphic file (type png)
-<use ../images/25percentClinicalTrialsFalse.png>
-Package pdftex.def Info: ../images/25percentClinicalTrialsFalse.png  used on input line 296.
-(pdftex.def)             Requested size: 120.0pt x 116.94128pt.
-File: ../images/moststudiesfalse.png Graphic file (type png)
-<use ../images/moststudiesfalse.png>
-Package pdftex.def Info: ../images/moststudiesfalse.png  used on input line 296.
+Package pdftex.def Info: ../images/moststudiesfalse.png  used on input line 301.
 (pdftex.def)             Requested size: 200.0pt x 45.59227pt.
  [43
 
 ]
 File: ../images/25percentClinicalTrialsFalse.png Graphic file (type png)
 <use ../images/25percentClinicalTrialsFalse.png>
-Package pdftex.def Info: ../images/25percentClinicalTrialsFalse.png  used on input line 296.
+Package pdftex.def Info: ../images/25percentClinicalTrialsFalse.png  used on input line 301.
 (pdftex.def)             Requested size: 120.0pt x 116.94128pt.
 File: ../images/moststudiesfalse.png Graphic file (type png)
 <use ../images/moststudiesfalse.png>
-Package pdftex.def Info: ../images/moststudiesfalse.png  used on input line 296.
+Package pdftex.def Info: ../images/moststudiesfalse.png  used on input line 301.
 (pdftex.def)             Requested size: 200.0pt x 45.59227pt.
-<../images/reproducible_neuroimaging.png, id=1331, 183.3249pt x 86.724pt>
-File: ../images/reproducible_neuroimaging.png Graphic file (type png)
-<use ../images/reproducible_neuroimaging.png>
-Package pdftex.def Info: ../images/reproducible_neuroimaging.png  used on input line 296.
-(pdftex.def)             Requested size: 300.0pt x 141.92653pt.
  [44
 
- <../images/reproducible_neuroimaging.png>] [45
+]
+File: ../images/25percentClinicalTrialsFalse.png Graphic file (type png)
+<use ../images/25percentClinicalTrialsFalse.png>
+Package pdftex.def Info: ../images/25percentClinicalTrialsFalse.png  used on input line 301.
+(pdftex.def)             Requested size: 120.0pt x 116.94128pt.
+File: ../images/moststudiesfalse.png Graphic file (type png)
+<use ../images/moststudiesfalse.png>
+Package pdftex.def Info: ../images/moststudiesfalse.png  used on input line 301.
+(pdftex.def)             Requested size: 200.0pt x 45.59227pt.
+ [45
 
-] [46
+]
+File: ../images/25percentClinicalTrialsFalse.png Graphic file (type png)
+<use ../images/25percentClinicalTrialsFalse.png>
+Package pdftex.def Info: ../images/25percentClinicalTrialsFalse.png  used on input line 301.
+(pdftex.def)             Requested size: 120.0pt x 116.94128pt.
+File: ../images/moststudiesfalse.png Graphic file (type png)
+<use ../images/moststudiesfalse.png>
+Package pdftex.def Info: ../images/moststudiesfalse.png  used on input line 301.
+(pdftex.def)             Requested size: 200.0pt x 45.59227pt.
+<../images/reproducible_neuroimaging.png, id=1402, 183.3249pt x 86.724pt>
+File: ../images/reproducible_neuroimaging.png Graphic file (type png)
+<use ../images/reproducible_neuroimaging.png>
+Package pdftex.def Info: ../images/reproducible_neuroimaging.png  used on input line 301.
+(pdftex.def)             Requested size: 300.0pt x 141.92653pt.
+ [46
 
-] [47
+ <../images/reproducible_neuroimaging.png>] [47
 
 ] [48
 
@@ -1166,26 +1166,26 @@ Package pdftex.def Info: ../images/reproducible_neuroimaging.png  used on input 
 
 ] [51
 
+] [52
+
+] [53
+
 ]
-<../images/everything.png, id=1585, 238.2501pt x 79.2561pt>
+<../images/everything.png, id=1656, 238.2501pt x 79.2561pt>
 File: ../images/everything.png Graphic file (type png)
 <use ../images/everything.png>
-Package pdftex.def Info: ../images/everything.png  used on input line 339.
+Package pdftex.def Info: ../images/everything.png  used on input line 344.
 (pdftex.def)             Requested size: 239.60567pt x 79.71182pt.
- [52
+ [54
 
  <../images/everything.png>]
 File: ../images/everything.png Graphic file (type png)
 <use ../images/everything.png>
-Package pdftex.def Info: ../images/everything.png  used on input line 339.
+Package pdftex.def Info: ../images/everything.png  used on input line 344.
 (pdftex.def)             Requested size: 239.60567pt x 79.71182pt.
- [53
+ [55
 
-] [54
-
-] [55
-
-] [56
+] (./ScienceIncentives.toc) [56
 
 ] [57
 
@@ -1195,83 +1195,83 @@ Package pdftex.def Info: ../images/everything.png  used on input line 339.
 
 ] [60
 
-]
-LaTeX Font Info:    Trying to load font information for TS1+cmss on input line 372.
- (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmss.fd
-File: ts1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
-) [61
+] [61
 
 ] [62
 
 ] [63
 
-] [64
+]
+LaTeX Font Info:    Trying to load font information for TS1+cmss on input line 380.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmss.fd
+File: ts1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+) [64
+
+] [65
+
+] [66
+
+] [67
 
 ]
-<../images/openaccesstimeline.png, id=1933, 323.0469pt x 112.5003pt>
+<../images/openaccesstimeline.png, id=2039, 323.0469pt x 112.5003pt>
 File: ../images/openaccesstimeline.png Graphic file (type png)
 <use ../images/openaccesstimeline.png>
-Package pdftex.def Info: ../images/openaccesstimeline.png  used on input line 397.
+Package pdftex.def Info: ../images/openaccesstimeline.png  used on input line 405.
 (pdftex.def)             Requested size: 273.83728pt x 95.36649pt.
- [65
+ [68
 
  <../images/openaccesstimeline.png>]
 File: ../images/openaccesstimeline.png Graphic file (type png)
 <use ../images/openaccesstimeline.png>
-Package pdftex.def Info: ../images/openaccesstimeline.png  used on input line 397.
-(pdftex.def)             Requested size: 273.83728pt x 95.36649pt.
- [66
-
-]
-File: ../images/openaccesstimeline.png Graphic file (type png)
-<use ../images/openaccesstimeline.png>
-Package pdftex.def Info: ../images/openaccesstimeline.png  used on input line 397.
-(pdftex.def)             Requested size: 273.83728pt x 95.36649pt.
- [67
-
-]
-File: ../images/openaccesstimeline.png Graphic file (type png)
-<use ../images/openaccesstimeline.png>
-Package pdftex.def Info: ../images/openaccesstimeline.png  used on input line 397.
-(pdftex.def)             Requested size: 273.83728pt x 95.36649pt.
- [68
-
-]
-File: ../images/openaccesstimeline.png Graphic file (type png)
-<use ../images/openaccesstimeline.png>
-Package pdftex.def Info: ../images/openaccesstimeline.png  used on input line 397.
+Package pdftex.def Info: ../images/openaccesstimeline.png  used on input line 405.
 (pdftex.def)             Requested size: 273.83728pt x 95.36649pt.
  [69
 
-] [70
+]
+File: ../images/openaccesstimeline.png Graphic file (type png)
+<use ../images/openaccesstimeline.png>
+Package pdftex.def Info: ../images/openaccesstimeline.png  used on input line 405.
+(pdftex.def)             Requested size: 273.83728pt x 95.36649pt.
+ [70
 
 ]
-<../images/NeuroImage_Resign.png, id=2095, 173.9298pt x 109.3686pt>
+File: ../images/openaccesstimeline.png Graphic file (type png)
+<use ../images/openaccesstimeline.png>
+Package pdftex.def Info: ../images/openaccesstimeline.png  used on input line 405.
+(pdftex.def)             Requested size: 273.83728pt x 95.36649pt.
+ [71
+
+]
+File: ../images/openaccesstimeline.png Graphic file (type png)
+<use ../images/openaccesstimeline.png>
+Package pdftex.def Info: ../images/openaccesstimeline.png  used on input line 405.
+(pdftex.def)             Requested size: 273.83728pt x 95.36649pt.
+ [72
+
+] [73
+
+]
+<../images/NeuroImage_Resign.png, id=2203, 173.9298pt x 109.3686pt>
 File: ../images/NeuroImage_Resign.png Graphic file (type png)
 <use ../images/NeuroImage_Resign.png>
-Package pdftex.def Info: ../images/NeuroImage_Resign.png  used on input line 416.
+Package pdftex.def Info: ../images/NeuroImage_Resign.png  used on input line 424.
 (pdftex.def)             Requested size: 209.99908pt x 132.05435pt.
- [71
+ [74
 
  <../images/NeuroImage_Resign.png>]
 File: ../images/NeuroImage_Resign.png Graphic file (type png)
 <use ../images/NeuroImage_Resign.png>
-Package pdftex.def Info: ../images/NeuroImage_Resign.png  used on input line 416.
+Package pdftex.def Info: ../images/NeuroImage_Resign.png  used on input line 424.
 (pdftex.def)             Requested size: 209.99908pt x 132.05435pt.
-<../images/scihub.png, id=2122, 200.1879pt x 141.8901pt>
+<../images/scihub.png, id=2230, 200.1879pt x 141.8901pt>
 File: ../images/scihub.png Graphic file (type png)
 <use ../images/scihub.png>
-Package pdftex.def Info: ../images/scihub.png  used on input line 416.
+Package pdftex.def Info: ../images/scihub.png  used on input line 424.
 (pdftex.def)             Requested size: 209.99908pt x 148.85475pt.
- [72
+ [75
 
- <../images/scihub.png>] [73
-
-] [74
-
-] [75
-
-] [76
+ <../images/scihub.png>] [76
 
 ] [77
 
@@ -1279,407 +1279,386 @@ Package pdftex.def Info: ../images/scihub.png  used on input line 416.
 
 ] [79
 
-]
-<../images/grantsCanada.png, id=2351, 361.35pt x 151.0443pt>
-File: ../images/grantsCanada.png Graphic file (type png)
-<use ../images/grantsCanada.png>
-Package pdftex.def Info: ../images/grantsCanada.png  used on input line 457.
-(pdftex.def)             Requested size: 342.2953pt x 143.08101pt.
- [80
+] [80
 
- <../images/grantsCanada.png>]
-<../images/fundinggdpcountries.png, id=2380, 181.8795pt x 151.0443pt>
-File: ../images/fundinggdpcountries.png Graphic file (type png)
-<use ../images/fundinggdpcountries.png>
-Package pdftex.def Info: ../images/fundinggdpcountries.png  used on input line 468.
-(pdftex.def)             Requested size: 239.60567pt x 198.98726pt.
- [81
+] [81
 
- <../images/fundinggdpcountries.png>] [82
+] (./ScienceIncentives.toc) [82
 
 ] [83
 
 ] [84
 
+] [85
+
+] [86
+
+] [87
+
+] [88
+
+] [89
+
 ]
-<../images/gradfundpovertyline.png, id=2485, 1541.76pt x 893.58844pt>
-File: ../images/gradfundpovertyline.png Graphic file (type png)
-<use ../images/gradfundpovertyline.png>
-Package pdftex.def Info: ../images/gradfundpovertyline.png  used on input line 493.
-(pdftex.def)             Requested size: 342.2953pt x 198.3899pt.
- [85
+<../images/grantsCanada.png, id=2673, 361.35pt x 151.0443pt>
+File: ../images/grantsCanada.png Graphic file (type png)
+<use ../images/grantsCanada.png>
+Package pdftex.def Info: ../images/grantsCanada.png  used on input line 483.
+(pdftex.def)             Requested size: 342.2953pt x 143.08101pt.
+ [90
 
- <../images/gradfundpovertyline.png>]
-<../images/gradmoneyafterrent.jpeg, id=2515, 191.9973pt x 191.2746pt>
-File: ../images/gradmoneyafterrent.jpeg Graphic file (type jpg)
-<use ../images/gradmoneyafterrent.jpeg>
-Package pdftex.def Info: ../images/gradmoneyafterrent.jpeg  used on input line 506.
-(pdftex.def)             Requested size: 222.48985pt x 221.6656pt.
- [86
+ <../images/grantsCanada.png>]
+<../images/fundinggdpcountries.png, id=2702, 181.8795pt x 151.0443pt>
+File: ../images/fundinggdpcountries.png Graphic file (type png)
+<use ../images/fundinggdpcountries.png>
+Package pdftex.def Info: ../images/fundinggdpcountries.png  used on input line 494.
+(pdftex.def)             Requested size: 239.60567pt x 198.98726pt.
+ [91
 
- <../images/gradmoneyafterrent.jpeg>]
-<../images/gradfundingtime.png, id=2542, 1204.5pt x 946.53625pt>
-File: ../images/gradfundingtime.png Graphic file (type png)
-<use ../images/gradfundingtime.png>
-Package pdftex.def Info: ../images/gradfundingtime.png  used on input line 516.
-(pdftex.def)             Requested size: 222.48985pt x 174.83205pt.
- [87
-
- <../images/gradfundingtime.png>]
-<../images/gradnumberscholarships.jpeg, id=2570, 161.8848pt x 229.8186pt>
-File: ../images/gradnumberscholarships.jpeg Graphic file (type jpg)
-<use ../images/gradnumberscholarships.jpeg>
-Package pdftex.def Info: ../images/gradnumberscholarships.jpeg  used on input line 526.
-(pdftex.def)             Requested size: 154.03183pt x 218.6806pt.
- [88
-
- <../images/gradnumberscholarships.jpeg>]
-<../images/pyramidscheme.png, id=2598, 602.25pt x 398.48875pt>
-File: ../images/pyramidscheme.png Graphic file (type png)
-<use ../images/pyramidscheme.png>
-Package pdftex.def Info: ../images/pyramidscheme.png  used on input line 538.
-(pdftex.def)             Requested size: 239.60567pt x 158.54141pt.
- [89
-
- <../images/pyramidscheme.png>] [90
-
-] [91
-
-] [92
+ <../images/fundinggdpcountries.png>] [92
 
 ] [93
 
 ] [94
 
-] [95
-
-] [96
-
-] [97
-
-] [98
-
-] [99
-
-] [100
-
-] [101
+] (./ScienceIncentives.toc) [95
 
 ]
-<../images/The_Scientific_Method.png, id=2959, 1027.84pt x 976.64874pt>
+<../images/gradfundpovertyline.png, id=2843, 1541.76pt x 893.58844pt>
+File: ../images/gradfundpovertyline.png Graphic file (type png)
+<use ../images/gradfundpovertyline.png>
+Package pdftex.def Info: ../images/gradfundpovertyline.png  used on input line 520.
+(pdftex.def)             Requested size: 342.2953pt x 198.3899pt.
+ [96
+
+ <../images/gradfundpovertyline.png>]
+<../images/gradmoneyafterrent.jpeg, id=2871, 191.9973pt x 191.2746pt>
+File: ../images/gradmoneyafterrent.jpeg Graphic file (type jpg)
+<use ../images/gradmoneyafterrent.jpeg>
+Package pdftex.def Info: ../images/gradmoneyafterrent.jpeg  used on input line 533.
+(pdftex.def)             Requested size: 222.48985pt x 221.6656pt.
+ [97
+
+ <../images/gradmoneyafterrent.jpeg>]
+<../images/gradfundingtime.png, id=2900, 1204.5pt x 946.53625pt>
+File: ../images/gradfundingtime.png Graphic file (type png)
+<use ../images/gradfundingtime.png>
+Package pdftex.def Info: ../images/gradfundingtime.png  used on input line 543.
+(pdftex.def)             Requested size: 222.48985pt x 174.83205pt.
+ [98
+
+ <../images/gradfundingtime.png>]
+<../images/gradnumberscholarships.jpeg, id=2928, 161.8848pt x 229.8186pt>
+File: ../images/gradnumberscholarships.jpeg Graphic file (type jpg)
+<use ../images/gradnumberscholarships.jpeg>
+Package pdftex.def Info: ../images/gradnumberscholarships.jpeg  used on input line 553.
+(pdftex.def)             Requested size: 154.03183pt x 218.6806pt.
+ [99
+
+ <../images/gradnumberscholarships.jpeg>]
+<../images/pyramidscheme.png, id=2955, 602.25pt x 398.48875pt>
+File: ../images/pyramidscheme.png Graphic file (type png)
+<use ../images/pyramidscheme.png>
+Package pdftex.def Info: ../images/pyramidscheme.png  used on input line 565.
+(pdftex.def)             Requested size: 239.60567pt x 158.54141pt.
+ [100
+
+ <../images/pyramidscheme.png>] [101
+
+] [102
+
+] [103
+
+] [104
+
+] [105
+
+] [106
+
+] [107
+
+] [108
+
+] [109
+
+] [110
+
+] [111
+
+] [112
+
+] (./ScienceIncentives.toc) [113
+
+]
+<../images/The_Scientific_Method.png, id=3352, 1027.84pt x 976.64874pt>
 File: ../images/The_Scientific_Method.png Graphic file (type png)
 <use ../images/The_Scientific_Method.png>
-Package pdftex.def Info: ../images/The_Scientific_Method.png  used on input line 601.
+Package pdftex.def Info: ../images/The_Scientific_Method.png  used on input line 630.
 (pdftex.def)             Requested size: 150.0pt x 142.52693pt.
- [102
+ [114
 
  <../images/The_Scientific_Method.png>]
 File: ../images/The_Scientific_Method.png Graphic file (type png)
 <use ../images/The_Scientific_Method.png>
-Package pdftex.def Info: ../images/The_Scientific_Method.png  used on input line 601.
+Package pdftex.def Info: ../images/The_Scientific_Method.png  used on input line 630.
 (pdftex.def)             Requested size: 150.0pt x 142.52693pt.
-<../images/scienceprogress.png, id=2989, 165.2574pt x 97.3236pt>
+<../images/scienceprogress.png, id=3381, 165.2574pt x 97.3236pt>
 File: ../images/scienceprogress.png Graphic file (type png)
 <use ../images/scienceprogress.png>
-Package pdftex.def Info: ../images/scienceprogress.png  used on input line 601.
+Package pdftex.def Info: ../images/scienceprogress.png  used on input line 630.
 (pdftex.def)             Requested size: 150.0pt x 88.34183pt.
- [103
+ [115
 
  <../images/scienceprogress.png>]
 File: ../images/The_Scientific_Method.png Graphic file (type png)
 <use ../images/The_Scientific_Method.png>
-Package pdftex.def Info: ../images/The_Scientific_Method.png  used on input line 601.
+Package pdftex.def Info: ../images/The_Scientific_Method.png  used on input line 630.
 (pdftex.def)             Requested size: 150.0pt x 142.52693pt.
 File: ../images/scienceprogress.png Graphic file (type png)
 <use ../images/scienceprogress.png>
-Package pdftex.def Info: ../images/scienceprogress.png  used on input line 601.
+Package pdftex.def Info: ../images/scienceprogress.png  used on input line 630.
 (pdftex.def)             Requested size: 150.0pt x 88.34183pt.
- [104
+ [116
 
-] [105
+] [117
 
 ]
-<../images/comte.jpg, id=3071, 1255.69125pt x 1606.0pt>
+<../images/comte.jpg, id=3463, 1255.69125pt x 1606.0pt>
 File: ../images/comte.jpg Graphic file (type jpg)
 <use ../images/comte.jpg>
-Package pdftex.def Info: ../images/comte.jpg  used on input line 625.
+Package pdftex.def Info: ../images/comte.jpg  used on input line 654.
 (pdftex.def)             Requested size: 50.0pt x 63.93498pt.
- [106
+ [118
 
  <../images/comte.jpg>]
 File: ../images/comte.jpg Graphic file (type jpg)
 <use ../images/comte.jpg>
-Package pdftex.def Info: ../images/comte.jpg  used on input line 625.
+Package pdftex.def Info: ../images/comte.jpg  used on input line 654.
 (pdftex.def)             Requested size: 50.0pt x 63.93498pt.
- [107
+ [119
 
 ]
 File: ../images/comte.jpg Graphic file (type jpg)
 <use ../images/comte.jpg>
-Package pdftex.def Info: ../images/comte.jpg  used on input line 625.
+Package pdftex.def Info: ../images/comte.jpg  used on input line 654.
 (pdftex.def)             Requested size: 50.0pt x 63.93498pt.
- [108
+ [120
 
 ]
 File: ../images/comte.jpg Graphic file (type jpg)
 <use ../images/comte.jpg>
-Package pdftex.def Info: ../images/comte.jpg  used on input line 625.
+Package pdftex.def Info: ../images/comte.jpg  used on input line 654.
 (pdftex.def)             Requested size: 50.0pt x 63.93498pt.
- [109
+ [121
 
 ]
 File: ../images/comte.jpg Graphic file (type jpg)
 <use ../images/comte.jpg>
-Package pdftex.def Info: ../images/comte.jpg  used on input line 625.
+Package pdftex.def Info: ../images/comte.jpg  used on input line 654.
 (pdftex.def)             Requested size: 50.0pt x 63.93498pt.
- [110
+ [122
 
 ]
 File: ../images/comte.jpg Graphic file (type jpg)
 <use ../images/comte.jpg>
-Package pdftex.def Info: ../images/comte.jpg  used on input line 625.
+Package pdftex.def Info: ../images/comte.jpg  used on input line 654.
 (pdftex.def)             Requested size: 50.0pt x 63.93498pt.
- [111
+ [123
 
 ]
 File: ../images/comte.jpg Graphic file (type jpg)
 <use ../images/comte.jpg>
-Package pdftex.def Info: ../images/comte.jpg  used on input line 625.
+Package pdftex.def Info: ../images/comte.jpg  used on input line 654.
 (pdftex.def)             Requested size: 50.0pt x 63.93498pt.
- [112
+ [124
 
 ]
-<../images/Karl_Popper.jpg, id=3255, 602.25pt x 771.88374pt>
+<../images/Karl_Popper.jpg, id=3647, 602.25pt x 771.88374pt>
 File: ../images/Karl_Popper.jpg Graphic file (type jpg)
 <use ../images/Karl_Popper.jpg>
-Package pdftex.def Info: ../images/Karl_Popper.jpg  used on input line 647.
+Package pdftex.def Info: ../images/Karl_Popper.jpg  used on input line 676.
 (pdftex.def)             Requested size: 50.0pt x 64.07222pt.
- [113
+ [125
 
  <../images/Karl_Popper.jpg>]
 File: ../images/Karl_Popper.jpg Graphic file (type jpg)
 <use ../images/Karl_Popper.jpg>
-Package pdftex.def Info: ../images/Karl_Popper.jpg  used on input line 647.
+Package pdftex.def Info: ../images/Karl_Popper.jpg  used on input line 676.
 (pdftex.def)             Requested size: 50.0pt x 64.07222pt.
- [114
+ [126
 
 ]
 File: ../images/Karl_Popper.jpg Graphic file (type jpg)
 <use ../images/Karl_Popper.jpg>
-Package pdftex.def Info: ../images/Karl_Popper.jpg  used on input line 647.
+Package pdftex.def Info: ../images/Karl_Popper.jpg  used on input line 676.
 (pdftex.def)             Requested size: 50.0pt x 64.07222pt.
- [115
+ [127
 
 ]
 File: ../images/Karl_Popper.jpg Graphic file (type jpg)
 <use ../images/Karl_Popper.jpg>
-Package pdftex.def Info: ../images/Karl_Popper.jpg  used on input line 647.
+Package pdftex.def Info: ../images/Karl_Popper.jpg  used on input line 676.
 (pdftex.def)             Requested size: 50.0pt x 64.07222pt.
- [116
+ [128
 
 ]
 File: ../images/Karl_Popper.jpg Graphic file (type jpg)
 <use ../images/Karl_Popper.jpg>
-Package pdftex.def Info: ../images/Karl_Popper.jpg  used on input line 647.
+Package pdftex.def Info: ../images/Karl_Popper.jpg  used on input line 676.
 (pdftex.def)             Requested size: 50.0pt x 64.07222pt.
- [117
+ [129
 
 ]
 File: ../images/Karl_Popper.jpg Graphic file (type jpg)
 <use ../images/Karl_Popper.jpg>
-Package pdftex.def Info: ../images/Karl_Popper.jpg  used on input line 647.
+Package pdftex.def Info: ../images/Karl_Popper.jpg  used on input line 676.
 (pdftex.def)             Requested size: 50.0pt x 64.07222pt.
- [118
+ [130
 
 ]
 File: ../images/Karl_Popper.jpg Graphic file (type jpg)
 <use ../images/Karl_Popper.jpg>
-Package pdftex.def Info: ../images/Karl_Popper.jpg  used on input line 647.
+Package pdftex.def Info: ../images/Karl_Popper.jpg  used on input line 676.
 (pdftex.def)             Requested size: 50.0pt x 64.07222pt.
- [119
+ [131
 
 ]
 File: ../images/Karl_Popper.jpg Graphic file (type jpg)
 <use ../images/Karl_Popper.jpg>
-Package pdftex.def Info: ../images/Karl_Popper.jpg  used on input line 647.
+Package pdftex.def Info: ../images/Karl_Popper.jpg  used on input line 676.
 (pdftex.def)             Requested size: 50.0pt x 64.07222pt.
- [120
+ [132
 
 ]
-<../images/Thomas_Kuhn.jpg, id=3467, 233.87375pt x 287.0725pt>
+<../images/Thomas_Kuhn.jpg, id=3859, 233.87375pt x 287.0725pt>
 File: ../images/Thomas_Kuhn.jpg Graphic file (type jpg)
 <use ../images/Thomas_Kuhn.jpg>
-Package pdftex.def Info: ../images/Thomas_Kuhn.jpg  used on input line 661.
+Package pdftex.def Info: ../images/Thomas_Kuhn.jpg  used on input line 690.
 (pdftex.def)             Requested size: 50.0pt x 61.37332pt.
- [121
+ [133
 
  <../images/Thomas_Kuhn.jpg>]
 File: ../images/Thomas_Kuhn.jpg Graphic file (type jpg)
 <use ../images/Thomas_Kuhn.jpg>
-Package pdftex.def Info: ../images/Thomas_Kuhn.jpg  used on input line 661.
+Package pdftex.def Info: ../images/Thomas_Kuhn.jpg  used on input line 690.
 (pdftex.def)             Requested size: 50.0pt x 61.37332pt.
- [122
+ [134
 
 ]
 File: ../images/Thomas_Kuhn.jpg Graphic file (type jpg)
 <use ../images/Thomas_Kuhn.jpg>
-Package pdftex.def Info: ../images/Thomas_Kuhn.jpg  used on input line 661.
+Package pdftex.def Info: ../images/Thomas_Kuhn.jpg  used on input line 690.
 (pdftex.def)             Requested size: 50.0pt x 61.37332pt.
- [123
+ [135
 
 ]
 File: ../images/Thomas_Kuhn.jpg Graphic file (type jpg)
 <use ../images/Thomas_Kuhn.jpg>
-Package pdftex.def Info: ../images/Thomas_Kuhn.jpg  used on input line 661.
+Package pdftex.def Info: ../images/Thomas_Kuhn.jpg  used on input line 690.
 (pdftex.def)             Requested size: 50.0pt x 61.37332pt.
- [124
+ [136
 
 ]
 File: ../images/Thomas_Kuhn.jpg Graphic file (type jpg)
 <use ../images/Thomas_Kuhn.jpg>
-Package pdftex.def Info: ../images/Thomas_Kuhn.jpg  used on input line 661.
+Package pdftex.def Info: ../images/Thomas_Kuhn.jpg  used on input line 690.
 (pdftex.def)             Requested size: 50.0pt x 61.37332pt.
- [125
+ [137
 
 ]
-<../images/popper-kuhn1.png, id=3600, 616.704pt x 200.4288pt>
+<../images/popper-kuhn1.png, id=3992, 616.704pt x 200.4288pt>
 File: ../images/popper-kuhn1.png Graphic file (type png)
 <use ../images/popper-kuhn1.png>
-Package pdftex.def Info: ../images/popper-kuhn1.png  used on input line 667.
+Package pdftex.def Info: ../images/popper-kuhn1.png  used on input line 696.
 (pdftex.def)             Requested size: 342.2953pt x 111.24846pt.
- [126
+ [138
 
  <../images/popper-kuhn1.png>]
-<../images/lakatos.jpg, id=3628, 602.25pt x 886.31125pt>
+<../images/lakatos.jpg, id=4020, 602.25pt x 886.31125pt>
 File: ../images/lakatos.jpg Graphic file (type jpg)
 <use ../images/lakatos.jpg>
-Package pdftex.def Info: ../images/lakatos.jpg  used on input line 682.
+Package pdftex.def Info: ../images/lakatos.jpg  used on input line 711.
 (pdftex.def)             Requested size: 50.0pt x 73.57057pt.
- [127
+ [139
 
  <../images/lakatos.jpg>]
 File: ../images/lakatos.jpg Graphic file (type jpg)
 <use ../images/lakatos.jpg>
-Package pdftex.def Info: ../images/lakatos.jpg  used on input line 682.
+Package pdftex.def Info: ../images/lakatos.jpg  used on input line 711.
 (pdftex.def)             Requested size: 50.0pt x 73.57057pt.
- [128
+ [140
 
 ]
 File: ../images/lakatos.jpg Graphic file (type jpg)
 <use ../images/lakatos.jpg>
-Package pdftex.def Info: ../images/lakatos.jpg  used on input line 682.
+Package pdftex.def Info: ../images/lakatos.jpg  used on input line 711.
 (pdftex.def)             Requested size: 50.0pt x 73.57057pt.
- [129
+ [141
 
 ]
 File: ../images/lakatos.jpg Graphic file (type jpg)
 <use ../images/lakatos.jpg>
-Package pdftex.def Info: ../images/lakatos.jpg  used on input line 682.
+Package pdftex.def Info: ../images/lakatos.jpg  used on input line 711.
 (pdftex.def)             Requested size: 50.0pt x 73.57057pt.
- [130
+ [142
 
 ]
 File: ../images/lakatos.jpg Graphic file (type jpg)
 <use ../images/lakatos.jpg>
-Package pdftex.def Info: ../images/lakatos.jpg  used on input line 682.
+Package pdftex.def Info: ../images/lakatos.jpg  used on input line 711.
 (pdftex.def)             Requested size: 50.0pt x 73.57057pt.
- [131
+ [143
 
 ]
 File: ../images/lakatos.jpg Graphic file (type jpg)
 <use ../images/lakatos.jpg>
-Package pdftex.def Info: ../images/lakatos.jpg  used on input line 682.
+Package pdftex.def Info: ../images/lakatos.jpg  used on input line 711.
 (pdftex.def)             Requested size: 50.0pt x 73.57057pt.
- [132
+ [144
 
 ]
-<../images/lakatosmodel.jpg, id=3788, 552.0625pt x 406.51875pt>
+<../images/lakatosmodel.jpg, id=4180, 552.0625pt x 406.51875pt>
 File: ../images/lakatosmodel.jpg Graphic file (type jpg)
 <use ../images/lakatosmodel.jpg>
-Package pdftex.def Info: ../images/lakatosmodel.jpg  used on input line 688.
+Package pdftex.def Info: ../images/lakatosmodel.jpg  used on input line 717.
 (pdftex.def)             Requested size: 308.06367pt x 226.85497pt.
- [133
+ [145
 
  <../images/lakatosmodel.jpg>]
-<../images/Feyerabend.jpeg, id=3816, 467.7475pt x 660.4675pt>
+<../images/Feyerabend.jpeg, id=4208, 467.7475pt x 660.4675pt>
 File: ../images/Feyerabend.jpeg Graphic file (type jpg)
 <use ../images/Feyerabend.jpeg>
-Package pdftex.def Info: ../images/Feyerabend.jpeg  used on input line 704.
+Package pdftex.def Info: ../images/Feyerabend.jpeg  used on input line 733.
 (pdftex.def)             Requested size: 50.0pt x 70.59575pt.
- [134
+ [146
 
  <../images/Feyerabend.jpeg>]
 File: ../images/Feyerabend.jpeg Graphic file (type jpg)
 <use ../images/Feyerabend.jpeg>
-Package pdftex.def Info: ../images/Feyerabend.jpeg  used on input line 704.
+Package pdftex.def Info: ../images/Feyerabend.jpeg  used on input line 733.
 (pdftex.def)             Requested size: 50.0pt x 70.59575pt.
- [135
-
-]
-File: ../images/Feyerabend.jpeg Graphic file (type jpg)
-<use ../images/Feyerabend.jpeg>
-Package pdftex.def Info: ../images/Feyerabend.jpeg  used on input line 704.
-(pdftex.def)             Requested size: 50.0pt x 70.59575pt.
- [136
-
-]
-File: ../images/Feyerabend.jpeg Graphic file (type jpg)
-<use ../images/Feyerabend.jpeg>
-Package pdftex.def Info: ../images/Feyerabend.jpeg  used on input line 704.
-(pdftex.def)             Requested size: 50.0pt x 70.59575pt.
- [137
-
-]
-File: ../images/Feyerabend.jpeg Graphic file (type jpg)
-<use ../images/Feyerabend.jpeg>
-Package pdftex.def Info: ../images/Feyerabend.jpeg  used on input line 704.
-(pdftex.def)             Requested size: 50.0pt x 70.59575pt.
- [138
-
-] [139
-
-] [140
-
-] [141
-
-] [142
-
-] [143
-
-] [144
-
-] [145
-
-]
-<../images/John_Ioannidis.jpg, id=4155, 542.025pt x 722.7pt>
-File: ../images/John_Ioannidis.jpg Graphic file (type jpg)
-<use ../images/John_Ioannidis.jpg>
-Package pdftex.def Info: ../images/John_Ioannidis.jpg  used on input line 735.
-(pdftex.def)             Requested size: 71.88242pt x 95.84pt.
- [146
-
- <../images/John_Ioannidis.jpg>]
-File: ../images/moststudiesfalse.png Graphic file (type png)
-<use ../images/moststudiesfalse.png>
-Package pdftex.def Info: ../images/moststudiesfalse.png  used on input line 744.
-(pdftex.def)             Requested size: 239.60567pt x 54.62057pt.
  [147
 
 ]
-File: ../images/moststudiesfalse.png Graphic file (type png)
-<use ../images/moststudiesfalse.png>
-Package pdftex.def Info: ../images/moststudiesfalse.png  used on input line 744.
-(pdftex.def)             Requested size: 239.60567pt x 54.62057pt.
+File: ../images/Feyerabend.jpeg Graphic file (type jpg)
+<use ../images/Feyerabend.jpeg>
+Package pdftex.def Info: ../images/Feyerabend.jpeg  used on input line 733.
+(pdftex.def)             Requested size: 50.0pt x 70.59575pt.
  [148
 
 ]
-File: ../images/moststudiesfalse.png Graphic file (type png)
-<use ../images/moststudiesfalse.png>
-Package pdftex.def Info: ../images/moststudiesfalse.png  used on input line 744.
-(pdftex.def)             Requested size: 239.60567pt x 54.62057pt.
+File: ../images/Feyerabend.jpeg Graphic file (type jpg)
+<use ../images/Feyerabend.jpeg>
+Package pdftex.def Info: ../images/Feyerabend.jpeg  used on input line 733.
+(pdftex.def)             Requested size: 50.0pt x 70.59575pt.
  [149
 
-] [150
+]
+File: ../images/Feyerabend.jpeg Graphic file (type jpg)
+<use ../images/Feyerabend.jpeg>
+Package pdftex.def Info: ../images/Feyerabend.jpeg  used on input line 733.
+(pdftex.def)             Requested size: 50.0pt x 70.59575pt.
+ [150
 
 ] [151
 
@@ -1693,17 +1672,38 @@ Package pdftex.def Info: ../images/moststudiesfalse.png  used on input line 744.
 
 ] [156
 
-] [157
+] (./ScienceIncentives.toc) [157
 
 ] [158
 
-] [159
+]
+<../images/John_Ioannidis.jpg, id=4581, 542.025pt x 722.7pt>
+File: ../images/John_Ioannidis.jpg Graphic file (type jpg)
+<use ../images/John_Ioannidis.jpg>
+Package pdftex.def Info: ../images/John_Ioannidis.jpg  used on input line 767.
+(pdftex.def)             Requested size: 71.88242pt x 95.84pt.
+ [159
 
-] [160
+ <../images/John_Ioannidis.jpg>]
+File: ../images/moststudiesfalse.png Graphic file (type png)
+<use ../images/moststudiesfalse.png>
+Package pdftex.def Info: ../images/moststudiesfalse.png  used on input line 776.
+(pdftex.def)             Requested size: 239.60567pt x 54.62057pt.
+ [160
 
-] [161
+]
+File: ../images/moststudiesfalse.png Graphic file (type png)
+<use ../images/moststudiesfalse.png>
+Package pdftex.def Info: ../images/moststudiesfalse.png  used on input line 776.
+(pdftex.def)             Requested size: 239.60567pt x 54.62057pt.
+ [161
 
-] [162
+]
+File: ../images/moststudiesfalse.png Graphic file (type png)
+<use ../images/moststudiesfalse.png>
+Package pdftex.def Info: ../images/moststudiesfalse.png  used on input line 776.
+(pdftex.def)             Requested size: 239.60567pt x 54.62057pt.
+ [162
 
 ] [163
 
@@ -1725,30 +1725,13 @@ Package pdftex.def Info: ../images/moststudiesfalse.png  used on input line 744.
 
 ] [172
 
-]
-<../images/stagnant.png, id=4952, 180.675pt x 60.9477pt>
-File: ../images/stagnant.png Graphic file (type png)
-<use ../images/stagnant.png>
-Package pdftex.def Info: ../images/stagnant.png  used on input line 813.
-(pdftex.def)             Requested size: 239.60567pt x 80.82782pt.
- [173
+] [173
 
- <../images/stagnant.png>]
-File: ../images/stagnant.png Graphic file (type png)
-<use ../images/stagnant.png>
-Package pdftex.def Info: ../images/stagnant.png  used on input line 813.
-(pdftex.def)             Requested size: 239.60567pt x 80.82782pt.
- [174
+] [174
 
-]
-<../images/paperspatents.png, id=5027, 308.8338pt x 154.6578pt>
-File: ../images/paperspatents.png Graphic file (type png)
-<use ../images/paperspatents.png>
-Package pdftex.def Info: ../images/paperspatents.png  used on input line 817.
-(pdftex.def)             Requested size: 342.2953pt x 171.42438pt.
- [175
+] [175
 
- <../images/paperspatents.png>] [176
+] [176
 
 ] [177
 
@@ -1768,59 +1751,105 @@ Package pdftex.def Info: ../images/paperspatents.png  used on input line 817.
 
 ] [185
 
-] [186
+]
+<../images/stagnant.png, id=5378, 180.675pt x 60.9477pt>
+File: ../images/stagnant.png Graphic file (type png)
+<use ../images/stagnant.png>
+Package pdftex.def Info: ../images/stagnant.png  used on input line 845.
+(pdftex.def)             Requested size: 239.60567pt x 80.82782pt.
+ [186
 
-] [187
+ <../images/stagnant.png>]
+File: ../images/stagnant.png Graphic file (type png)
+<use ../images/stagnant.png>
+Package pdftex.def Info: ../images/stagnant.png  used on input line 845.
+(pdftex.def)             Requested size: 239.60567pt x 80.82782pt.
+ [187
 
-] [188
+]
+<../images/paperspatents.png, id=5454, 308.8338pt x 154.6578pt>
+File: ../images/paperspatents.png Graphic file (type png)
+<use ../images/paperspatents.png>
+Package pdftex.def Info: ../images/paperspatents.png  used on input line 849.
+(pdftex.def)             Requested size: 342.2953pt x 171.42438pt.
+ [188
 
-] [189
+ <../images/paperspatents.png>] (./ScienceIncentives.toc) [189
 
 ] [190
 
 ] [191
 
+] [192
+
+] [193
+
+] [194
+
+] [195
+
+] [196
+
+] [197
+
+] [198
+
+] [199
+
+] [200
+
+] [201
+
+] [202
+
+] [203
+
+] [204
+
+] [205
+
 ]
-<../images/statsdonewrong.jpg, id=5476, 669.50125pt x 1003.75pt>
+<../images/statsdonewrong.jpg, id=5938, 669.50125pt x 1003.75pt>
 File: ../images/statsdonewrong.jpg Graphic file (type jpg)
 <use ../images/statsdonewrong.jpg>
-Package pdftex.def Info: ../images/statsdonewrong.jpg  used on input line 899.
+Package pdftex.def Info: ../images/statsdonewrong.jpg  used on input line 933.
 (pdftex.def)             Requested size: 60.0pt x 89.9507pt.
-<../images/againstmethod.jpg, id=5477, 672.5125pt x 1003.75pt>
+<../images/againstmethod.jpg, id=5939, 672.5125pt x 1003.75pt>
 File: ../images/againstmethod.jpg Graphic file (type jpg)
 <use ../images/againstmethod.jpg>
-Package pdftex.def Info: ../images/againstmethod.jpg  used on input line 899.
+Package pdftex.def Info: ../images/againstmethod.jpg  used on input line 933.
 (pdftex.def)             Requested size: 60.0pt x 89.55247pt.
-<../images/structures.jpg, id=5478, 313.17pt x 476.78125pt>
+<../images/structures.jpg, id=5940, 313.17pt x 476.78125pt>
 File: ../images/structures.jpg Graphic file (type jpg)
 <use ../images/structures.jpg>
-Package pdftex.def Info: ../images/structures.jpg  used on input line 899.
+Package pdftex.def Info: ../images/structures.jpg  used on input line 933.
 (pdftex.def)             Requested size: 60.0pt x 91.34598pt.
-<../images/metaphysicalclub.jpg, id=5479, 1003.75pt x 1003.75pt>
+<../images/metaphysicalclub.jpg, id=5941, 1003.75pt x 1003.75pt>
 File: ../images/metaphysicalclub.jpg Graphic file (type jpg)
 <use ../images/metaphysicalclub.jpg>
-Package pdftex.def Info: ../images/metaphysicalclub.jpg  used on input line 899.
+Package pdftex.def Info: ../images/metaphysicalclub.jpg  used on input line 933.
 (pdftex.def)             Requested size: 60.0pt x 59.99266pt.
-<../images/degreesofsuccess.png, id=5480, 154.8987pt x 233.673pt>
+<../images/degreesofsuccess.png, id=5942, 154.8987pt x 233.673pt>
 File: ../images/degreesofsuccess.png Graphic file (type png)
 <use ../images/degreesofsuccess.png>
-Package pdftex.def Info: ../images/degreesofsuccess.png  used on input line 899.
+Package pdftex.def Info: ../images/degreesofsuccess.png  used on input line 933.
 (pdftex.def)             Requested size: 60.0pt x 90.51526pt.
 File: ../images/moststudiesfalse.png Graphic file (type png)
 <use ../images/moststudiesfalse.png>
-Package pdftex.def Info: ../images/moststudiesfalse.png  used on input line 899.
+Package pdftex.def Info: ../images/moststudiesfalse.png  used on input line 933.
 (pdftex.def)             Requested size: 190.0pt x 43.31268pt.
 File: ../images/sciencefunding.png Graphic file (type png)
 <use ../images/sciencefunding.png>
-Package pdftex.def Info: ../images/sciencefunding.png  used on input line 899.
+Package pdftex.def Info: ../images/sciencefunding.png  used on input line 933.
 (pdftex.def)             Requested size: 160.0pt x 49.36661pt.
-File: ../images/25percentClinicalTrialsFalse.png Graphic file (type png)
-<use ../images/25percentClinicalTrialsFalse.png>
-Package pdftex.def Info: ../images/25percentClinicalTrialsFalse.png  used on input line 899.
-(pdftex.def)             Requested size: 80.0pt x 77.96085pt.
- [192
+<../images/voxarticle.png, id=5943, 183.3249pt x 90.8193pt>
+File: ../images/voxarticle.png Graphic file (type png)
+<use ../images/voxarticle.png>
+Package pdftex.def Info: ../images/voxarticle.png  used on input line 933.
+(pdftex.def)             Requested size: 140.0pt x 69.36012pt.
+ [206
 
- <../images/statsdonewrong.jpg> <../images/againstmethod.jpg> <../images/structures.jpg> <../images/metaphysicalclub.jpg> <../images/degreesofsuccess.png>]
+ <../images/statsdonewrong.jpg> <../images/againstmethod.jpg> <../images/structures.jpg> <../images/metaphysicalclub.jpg> <../images/degreesofsuccess.png> <../images/voxarticle.png>]
 \tf@nav=\write6
 \openout6 = `ScienceIncentives.nav'.
 
@@ -1835,18 +1864,18 @@ Package rerunfilecheck Info: File `ScienceIncentives.out' has not changed.
 (rerunfilecheck)             Checksum: C94EBF82C7B5715373B3A7153AF1768F;806.
  ) 
 Here is how much of TeX's memory you used:
- 26020 strings out of 478287
- 502625 string characters out of 5849290
- 753061 words of memory out of 5000000
- 43243 multiletter control sequences out of 15000+600000
+ 26103 strings out of 478287
+ 504103 string characters out of 5849290
+ 757459 words of memory out of 5000000
+ 43281 multiletter control sequences out of 15000+600000
  484190 words of font info for 76 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,15n,122p,510b,949s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam7.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1095.pfb>
-Output written on ScienceIncentives.pdf (192 pages, 6144100 bytes).
+Output written on ScienceIncentives.pdf (206 pages, 6235550 bytes).
 PDF statistics:
- 5653 PDF objects out of 6186 (max. 8388607)
- 5163 compressed objects within 52 object streams
- 393 named destinations out of 1000 (max. 500000)
- 1165 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6123 PDF objects out of 6186 (max. 8388607)
+ 5611 compressed objects within 57 object streams
+ 421 named destinations out of 1000 (max. 500000)
+ 1176 words of extra memory for PDF output out of 10000 (max. 10000000)
 

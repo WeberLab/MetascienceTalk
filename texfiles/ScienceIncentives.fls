@@ -1379,6 +1379,9 @@ INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
 INPUT ./ScienceIncentives.toc
 INPUT ScienceIncentives.toc
 INPUT ScienceIncentives.toc
+INPUT ./ScienceIncentives.toc
+INPUT ScienceIncentives.toc
+INPUT ScienceIncentives.toc
 INPUT ../images/Toot.png
 INPUT ../images/Toot.png
 INPUT ../images/Toot.png
@@ -1473,6 +1476,9 @@ INPUT ../images/sciencefunding.png
 INPUT ../images/sciencefunding.png
 INPUT ../images/sciencefunding.png
 INPUT ../images/sciencefunding.png
+INPUT ./ScienceIncentives.toc
+INPUT ScienceIncentives.toc
+INPUT ScienceIncentives.toc
 INPUT ../images/Incentives.png
 INPUT ../images/Incentives.png
 INPUT ../images/Incentives.png
@@ -1650,6 +1656,9 @@ INPUT ../images/everything.png
 INPUT ../images/everything.png
 INPUT ../images/everything.png
 INPUT ../images/everything.png
+INPUT ./ScienceIncentives.toc
+INPUT ScienceIncentives.toc
+INPUT ScienceIncentives.toc
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/ts1cmss.fd
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/ts1cmss.fd
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/ts1cmss.fd
@@ -1691,6 +1700,9 @@ INPUT ../images/scihub.png
 INPUT ../images/scihub.png
 INPUT ../images/scihub.png
 INPUT ../images/scihub.png
+INPUT ./ScienceIncentives.toc
+INPUT ScienceIncentives.toc
+INPUT ScienceIncentives.toc
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmss10.tfm
 INPUT ../images/grantsCanada.png
 INPUT ../images/grantsCanada.png
@@ -1702,6 +1714,9 @@ INPUT ../images/fundinggdpcountries.png
 INPUT ../images/fundinggdpcountries.png
 INPUT ../images/fundinggdpcountries.png
 INPUT ../images/fundinggdpcountries.png
+INPUT ./ScienceIncentives.toc
+INPUT ScienceIncentives.toc
+INPUT ScienceIncentives.toc
 INPUT ../images/gradfundpovertyline.png
 INPUT ../images/gradfundpovertyline.png
 INPUT ../images/gradfundpovertyline.png
@@ -1726,6 +1741,9 @@ INPUT ../images/pyramidscheme.png
 INPUT ../images/pyramidscheme.png
 INPUT ../images/pyramidscheme.png
 INPUT ../images/pyramidscheme.png
+INPUT ./ScienceIncentives.toc
+INPUT ScienceIncentives.toc
+INPUT ScienceIncentives.toc
 INPUT ../images/The_Scientific_Method.png
 INPUT ../images/The_Scientific_Method.png
 INPUT ../images/The_Scientific_Method.png
@@ -1887,6 +1905,9 @@ INPUT ../images/Feyerabend.jpeg
 INPUT ../images/Feyerabend.jpeg
 INPUT ../images/Feyerabend.jpeg
 INPUT ../images/Feyerabend.jpeg
+INPUT ./ScienceIncentives.toc
+INPUT ScienceIncentives.toc
+INPUT ScienceIncentives.toc
 INPUT ../images/John_Ioannidis.jpg
 INPUT ../images/John_Ioannidis.jpg
 INPUT ../images/John_Ioannidis.jpg
@@ -1918,6 +1939,9 @@ INPUT ../images/paperspatents.png
 INPUT ../images/paperspatents.png
 INPUT ../images/paperspatents.png
 INPUT ../images/paperspatents.png
+INPUT ./ScienceIncentives.toc
+INPUT ScienceIncentives.toc
+INPUT ScienceIncentives.toc
 INPUT ../images/statsdonewrong.jpg
 INPUT ../images/statsdonewrong.jpg
 INPUT ../images/statsdonewrong.jpg
@@ -1951,10 +1975,11 @@ INPUT ../images/sciencefunding.png
 INPUT ../images/sciencefunding.png
 INPUT ../images/sciencefunding.png
 INPUT ../images/sciencefunding.png
-INPUT ../images/25percentClinicalTrialsFalse.png
-INPUT ../images/25percentClinicalTrialsFalse.png
-INPUT ../images/25percentClinicalTrialsFalse.png
-INPUT ../images/25percentClinicalTrialsFalse.png
+INPUT ../images/voxarticle.png
+INPUT ../images/voxarticle.png
+INPUT ../images/voxarticle.png
+INPUT ../images/voxarticle.png
+INPUT ../images/voxarticle.png
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmtt10.tfm
 OUTPUT ScienceIncentives.nav
 OUTPUT ScienceIncentives.toc

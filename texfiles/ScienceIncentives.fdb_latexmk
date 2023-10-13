@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1696992053 "/home/weberam2/Dropbox/AssistantProf_BCCHRI/Teaching/JournalClubs/UBCMRIPhysicsGroup/texfiles/ScienceIncentives.tex" "ScienceIncentives.pdf" "ScienceIncentives" 1696992063
+["pdflatex"] 1697143035 "/home/weberam2/Dropbox/AssistantProf_BCCHRI/Teaching/JournalClubs/UBCMRIPhysicsGroup/texfiles/ScienceIncentives.tex" "ScienceIncentives.pdf" "ScienceIncentives" 1697143046
   "../images/25percentClinicalTrialsFalse.png" 1696544106 58736 fcd4bc7a0c712ba34baca8bb29d83ce8 ""
   "../images/DukeProfessorFalsifyData.png" 1696544625 76586 0fff02ba5f57a87b56ffa9b5ba90ab4c ""
   "../images/Feyerabend.jpeg" 1696972225 32075 61174a7a85cdab388e686b1e3aa782b5 ""
@@ -46,8 +46,9 @@
   "../images/stagnant.png" 1696977918 45137 03dc0f4a9cdf695c4e07d576e3db396b ""
   "../images/statsdonewrong.jpg" 1696982329 79996 e59b1414d8bd2499492626691413f575 ""
   "../images/structures.jpg" 1696982470 23123 22cc68bca5c24518a0243bbabae52975 ""
+  "../images/voxarticle.png" 1696996576 79150 df455ef75683057ad2070a37473f7bf7 ""
   "/etc/texmf/web2c/texmf.cnf" 1660240584 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/weberam2/Dropbox/AssistantProf_BCCHRI/Teaching/JournalClubs/UBCMRIPhysicsGroup/texfiles/ScienceIncentives.tex" 1696992053 36178 ccd1a7de153a5efcef07b55731ee719e ""
+  "/home/weberam2/Dropbox/AssistantProf_BCCHRI/Teaching/JournalClubs/UBCMRIPhysicsGroup/texfiles/ScienceIncentives.tex" 1697143035 38026 769b95654435a6c0e35a699bb5f0a1b0 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/tcss1095.tfm" 1136768653 1536 f0fa079cdc83a6ffeda21e42352cf1ea ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy6.tfm" 1246382020 1124 14ccf5552bc7f77ca02a8a402bea8bfb ""
@@ -283,11 +284,11 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1644012257 39432 7155514e09a3d69036fac785183a21c2 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1660240749 4379155 98693266ff65f58d9f98aff394de12d2 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1685712112 2801295 d4657ecc24419e6d1f0a4eb9d94c0241 ""
-  "ScienceIncentives.aux" 1696992063 10145 1c621036bd4a639baec0d1db084c33eb "pdflatex"
-  "ScienceIncentives.nav" 1696992063 6458 1280a6572e0c2a94670edee53e59d881 "pdflatex"
-  "ScienceIncentives.out" 1696992063 806 c94ebf82c7b5715373b3a7153af1768f "pdflatex"
-  "ScienceIncentives.tex" 1696992053 36178 ccd1a7de153a5efcef07b55731ee719e ""
-  "ScienceIncentives.toc" 1696992063 388 25626a6e46526ceab1fdac79a42cb167 "pdflatex"
+  "ScienceIncentives.aux" 1697143046 11319 b78f019adb65808b8cfdae9caba1e9bf "pdflatex"
+  "ScienceIncentives.nav" 1697143046 7308 0fb794d4a74572c3c2c9b2211e72ab9b "pdflatex"
+  "ScienceIncentives.out" 1697143046 806 c94ebf82c7b5715373b3a7153af1768f "pdflatex"
+  "ScienceIncentives.tex" 1697143035 38026 769b95654435a6c0e35a699bb5f0a1b0 ""
+  "ScienceIncentives.toc" 1697143046 388 b41523d1d09a9fead670c7513b771f52 "pdflatex"
   (generated)
   "ScienceIncentives.aux"
   "ScienceIncentives.log"

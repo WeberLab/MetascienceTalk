@@ -1,8 +1,8 @@
 \beamer@sectionintoc {1}{Toot}{3}{0}{1}
-\beamer@sectionintoc {2}{Incentives}{14}{0}{2}
-\beamer@sectionintoc {3}{Publishing World}{54}{0}{3}
-\beamer@sectionintoc {4}{Grants}{73}{0}{4}
-\beamer@sectionintoc {5}{Grad Students}{85}{0}{5}
-\beamer@sectionintoc {6}{Philosophy of Science}{102}{0}{6}
-\beamer@sectionintoc {7}{Metascience}{145}{0}{7}
-\beamer@sectionintoc {8}{Solutions}{176}{0}{8}
+\beamer@sectionintoc {2}{Incentives}{15}{0}{2}
+\beamer@sectionintoc {3}{Publishing World}{56}{0}{3}
+\beamer@sectionintoc {4}{Grants}{82}{0}{4}
+\beamer@sectionintoc {5}{Grad Students}{95}{0}{5}
+\beamer@sectionintoc {6}{Philosophy of Science}{113}{0}{6}
+\beamer@sectionintoc {7}{Metascience}{157}{0}{7}
+\beamer@sectionintoc {8}{Solutions}{189}{0}{8}
