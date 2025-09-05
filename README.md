@@ -7,4 +7,6 @@ This repo is for a presentation I made in LaTex Beamer for UBC MRI Physics group
 
 The main file is the **ScienceIncentives.pdf** file, which is a softlink to the same file in the texfiles folder
 
+You can download the pdf directly using this link [https://raw.githubusercontent.com/WeberLab/MetascienceTalk/main/texfiles/ScienceIncentives.pdf](https://raw.githubusercontent.com/WeberLab/MetascienceTalk/main/texfiles/ScienceIncentives.pdf)
+
 Enjoy :)
